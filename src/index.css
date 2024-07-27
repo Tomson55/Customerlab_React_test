@@ -29,7 +29,6 @@ html {
   box-sizing: inherit;
 }
 
-/* Ensure the app container takes up full height */
 #root {
   min-height: 100vh;
   display: flex;
@@ -38,7 +37,6 @@ html {
   background-color: #f8f9fa;
 }
 
-/* Apply some basic styles for buttons */
 button {
   border: none;
   border-radius: 4px;
